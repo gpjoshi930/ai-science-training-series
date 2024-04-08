@@ -355,7 +355,6 @@ _2024-03-12_
     - Link to W&B run, e.g.
 
         ```bash
-        wandb: 🚀 View run feasible-sunset-4 at: https://wandb.ai/aurora_gpt/WordPlay/runs/6b22rdws
-        ```
+        wandb: 🚀 View run feasible-sunset-4 at: https://wandb.ai/josganesh52/WordPlay?nw=nwuserjosganesh52        ```
 
     - Path to logfile
