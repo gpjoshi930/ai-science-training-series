@@ -8,3 +8,4 @@ Disadvantages
 It can be too costly.
 Required immense energy and resources. 
 It is challenging to address the ethical issue because of LLM.
+Potential application: It can be used in different decision-making processes. 
