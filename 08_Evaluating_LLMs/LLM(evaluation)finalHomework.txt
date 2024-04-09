@@ -1,10 +1,10 @@
 Uses
-?	LLM can help process natural language. For example, LLM is used to make a module like GPT. 
-? It can help extract information from different areas for different purposes. For example, it can be helpful to summarize the research paper. 
-? It can be helpful to find patterns from large-scale data. 
-? It can be helpful to do tokenization. 
-? It can be helpful to clean that data. i.e., it can remove redundant and low-quality data and improve performance efficiency. 
+LLM can help process natural language. For example, LLM is used to make a module like GPT. 
+It can help extract information from different areas for different purposes. For example, it can be helpful to summarize the research paper. 
+It can be helpful to find patterns from large-scale data. 
+It can be helpful to do tokenization. 
+It can be helpful to clean that data. i.e., it can remove redundant and low-quality data and improve performance efficiency. 
 Disadvantages
-? It can be too costly.
-? Required immense energy and resources. 
+It can be too costly.
+Required immense energy and resources. 
 It is challenging to address the ethical issue because of LLM.
